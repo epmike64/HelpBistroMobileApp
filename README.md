@@ -12,4 +12,5 @@ The revenue is generated through a number of ways. The first one is a time manag
 The current development stage.
 The application technical part is above 90% complete. At this stage we are looking for angel investors.
 
-Please, feel free to drop us a line…
+Please, feel free to drop us a line at:
+helpbistro@gmail.com
